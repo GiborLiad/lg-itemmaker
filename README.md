@@ -2,6 +2,7 @@
 # V1 - First Version 
 # DM Me for help: pro.gibor
 # Join My Discord: https://discord.gg/8G5hDFNrrr
+# Preview: https://youtu.be/M3d5umOHL1I
 ## LG-ITEMMAKER
 About the script: Making item when clicking any button you choose
 # Dependencies: 
