@@ -1,7 +1,7 @@
 ## LG Development 
 # V1 - First Version 
 # DM Me for help: pro.gibor
-# Join My Discord:
+# Join My Discord: https://discord.gg/8G5hDFNrrr
 ## LG-ITEMMAKER
 About the script: Making item when clicking any button you choose
 # Dependencies: 
